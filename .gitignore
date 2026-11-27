@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*token*
+*secret*
+__pycache__/
+.DS_Store
+Thumbs.db
+
